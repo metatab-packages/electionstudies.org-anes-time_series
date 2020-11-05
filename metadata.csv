@@ -1,0 +1,51 @@
+Declare,metatab-latest
+Title,American National Election Studies Time Series
+Description,"A scientific survey of American's voting behavior, political preferences and"
+Description,related characteristics
+Identifier,2327b7c4-aaeb-4126-8195-8e8198b44ceb
+Name,electionstudies.org-anes-time_series-1.1.1
+Dataset,anes
+Origin,electionstudies.org
+Time,
+Space,
+Grain,
+Variant,time_series
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2020-11-05T18:28:07
+Modified,2020-11-05T18:41:54
+Giturl,https://github.com/metatab-packages/surveys.git
+
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+Homepage,https://electionstudies.org/,ANES Home Page,,
+Downloadpage,https://electionstudies.org/data-center/,Data Center,,
+Note,The ANES requires creating an account and logging in to download data. You must create an account and accept ANES terms before using this data package. 
+,
+Documentation,https://electionstudies.org/data-center/2016-time-series-study/,2016 Documentation
+Documentation,https://electionstudies.org/data-center/2012-time-series-study/,2012 Documentation
+Documentation,https://electionstudies.org/data-center/2008-time-series-study/,2008 Documentation
+Documentation,https://electionstudies.org/data-center/2004-time-series-study/,2004 Documentation
+Documentation,https://electionstudies.org/data-center/2002-time-series-study/,2002 Documentation
+Documentation,https://electionstudies.org/data-center/2000-time-series-study/,2000 Documentation
+Documentation,
+,
+Section,References,Name,Description,
+
+Reference,https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_dta.zip#&encoding=latin-1,anes_ts_2016,Anes Timeseries 2016
+Reference,https://electionstudies.org/wp-content/uploads/2018/06/anes_timeseries_2012_dta.zip,anes_ts_2012,Anes Timeseries 2012
+Reference,https://electionstudies.org/wp-content/uploads/2018/06/anes_timeseries_2008_dta.zip,anes_ts_2008,Anes Timeseries 2008
+Reference,https://electionstudies.org/wp-content/uploads/2018/06/anes2004TSdta.zip,anes_ts_2004,Anes Timeseries 2004
+Reference,https://electionstudies.org/wp-content/uploads/2018/06/anes2002TSdta.zip,anes_ts_2002,Anes Timeseries 2002
+Reference,https://electionstudies.org/wp-content/uploads/2018/06/anes2000TSdta.zip,anes_ts_2000,Anes Timeseries 2000
+Reference
+
+Section,Resources,Name,Description,
+,,,,
+
+Section,Schema,DataType,AltName,Description
